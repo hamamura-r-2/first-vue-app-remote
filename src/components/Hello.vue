@@ -1,3 +1,4 @@
+<!-- リアクティブな変数の定義用 -->
 <template>
     <h2>Hello!!</h2>
     <p>Ref Count:{{ count }}</p>
